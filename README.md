@@ -17,7 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alydalie&show_icons=true&locale=en&layout=compact" alt="alydalie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alydalie&show_icons=true&locale=en" alt="alydalie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alydalie&" alt="alydalie" /></p>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alydalie&theme=holi-theme&hide_border=true&mode=weekly&card_width=494&type=png&hide_current_streak=true" alt="GitHub Streak" /></a>
