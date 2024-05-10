@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alydalie</h1>
 <h3 align="center">Passionate about learning. Computer Science, Finance.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alydalie" alt="alydalie" /></a> </p>
-
 - 📫 How to reach me **test@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
